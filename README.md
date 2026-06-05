@@ -25,24 +25,24 @@ I enjoy transforming raw data into actionable business insights through analytic
 ### Featured Projects
 
 🍕 Pizza Sales Analytics
-• SQL (SSMS)-based sales analytics project
-• Revenue, order volume, and product performance analysis
-• KPI reporting and business insights generation
+* SQL (SSMS)-based sales analytics project
+* Revenue, order volume, and product performance analysis
+* KPI reporting and business insights generation
 
 👥 HR Analytics Dashboard
-• Workforce analytics and attrition tracking
-• SQL + Power BI dashboard development
-• KPI monitoring and HR reporting
+* Workforce analytics and attrition tracking
+* SQL + Power BI dashboard development
+* KPI monitoring and HR reporting
 
 🛒 Customer Behavior Analysis
-• SQL, Python, and Power BI-based customer analytics
-• Customer segmentation and behavioral insights
-• Trend analysis and visualization
+* SQL, Python, and Power BI-based customer analytics
+* Customer segmentation and behavioral insights
+* Trend analysis and visualization
 
 🚗 Road Accident Analysis
-• Excel dashboard development
-• Accident trend and casualty analysis
-• Data visualization and reporting
+* Excel dashboard development
+* Accident trend and casualty analysis
+* Data visualization and reporting
 
 
 ### Certifications
